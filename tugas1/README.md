@@ -8,5 +8,7 @@ Rincian Tugas 1, Buatlah 1 file html yang berisi:
 2. Tambahkan warna ataupun hiasan lainnya
 3. Terdapat gambar, music, table dan list didalam satu file tersebut
 
+## Catatan
+
 > - Tugas 1
 > - 21 Februari 2023
