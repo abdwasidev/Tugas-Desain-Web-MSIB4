@@ -8,16 +8,16 @@ Buatlah Form seperti gambar diatas(warna bebas)
     <tr>
         <td>
             <img
-            src="asset/image1.png"
-            alt="my photo"
+            src="https://raw.githubusercontent.com/abdwasidev/Tugas-Desain-Web-MSIB4/main/tugas2/assets/image1.png"
+            alt="Tugas Register Produk"
             width="100px"
             style="border-radius: 50%"
             />
         </td>
         <td>
             <img
-            src="asset/image2.png"
-            alt="my photo"
+            src="https://raw.githubusercontent.com/abdwasidev/Tugas-Desain-Web-MSIB4/main/tugas2/assets/image2.png"
+            alt="Tugas Register Member"
             width="100px"
             style="border-radius: 50%"
             />
