@@ -1,4 +1,4 @@
-# Tugas2\__AbdulWasi'Al-Afif_UPNVeteranJawaTimur_
+# Tugas 2
 
 ## Detail tugas
 
