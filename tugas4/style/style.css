@@ -17,6 +17,8 @@ body {
   background-color: var(--white-color);
   color: var(--black-color);
   text-align: center;
+  height: auto;
+  overflow: auto;
 }
 
 a {
@@ -82,11 +84,14 @@ h1 {
   padding: 20px;
 }
 
-.articles {
+.blog-articles {
   float: left;
   width: 60%;
-  text-align: left;
   margin-bottom: 30px;
+}
+
+.articles {
+  text-align: left;
 }
 
 .articles div a {
@@ -103,7 +108,7 @@ h1 {
   background-color: var(--soft-color);
   color: var(--black-color);
   padding: 10px 0;
-  margin: 10px;
+  margin: 10px 0;
   border-radius: 8px;
 }
 
